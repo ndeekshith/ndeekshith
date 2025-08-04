@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndeekshith&label=Profile%20views&color=0e75b6&style=flat" alt="ndeekshith" /> </p>
 
-- 🔭 I’m currently learning on **Machine Learning**
-
 - 🌱 I’m currently learning **Data SCience and Deep learning Projects**
 
 - 👨‍💻 All of my projects are available at [https://ndeekshith.github.io/portfolio/](https://ndeekshith.github.io/portfolio/)
